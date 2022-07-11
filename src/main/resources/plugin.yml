@@ -1,4 +1,4 @@
-name: SMPly TallGrassShears
+name: SMPly-TallGrassShears
 version: '${project.version}'
 main: io.github.zohiu.smplytallgrassshears.SMPlyTallGrassShears
 api-version: 1.19
