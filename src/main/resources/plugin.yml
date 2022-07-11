@@ -1,0 +1,7 @@
+name: SMPly TallGrassShears
+version: '${project.version}'
+main: io.github.zohiu.smplytallgrassshears.SMPlyTallGrassShears
+api-version: 1.19
+authors: [ Zohiu ]
+description: Get tall grass by breaking it with shears
+website: https://github.com/Zohiu/SMPly-TallGrassShears
