@@ -12,4 +12,9 @@ public final class SMPlyTallGrassShears extends JavaPlugin {
         this.getServer().getPluginManager().registerEvents(new BreakEvent(), this);
         this.getLogger().log(Level.INFO, ChatColor.GREEN + "Enabled.");
     }
+
+    @Override
+    public void onDisable() {
+        this.getLogger().log(Level.INFO, ChatColor.RED + "Disabled.");
+    }
 }
